@@ -1,1 +1,1 @@
-# libary-mangment
+library-management
